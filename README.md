@@ -4,6 +4,10 @@
 
 A simple quiz app using javascript auto next question after choosing answer and save your score into local storage.
 
+- Here is the link to access quiz app: [Simple Quiz](https://christopher211.github.io/simple-quiz/)
+
+- The repo of the quiz: [Source Code](https://github.com/christopher211/simple-quiz)
+
 ## User Story
 
 ```
